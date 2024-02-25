@@ -1,0 +1,5 @@
+google-generativeai
+prompt-toolkit
+pyttsx3
+SpeechRecognition
+streamlit
